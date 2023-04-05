@@ -8,19 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/princem59025582" target="blank"><img src="https://img.shields.io/twitter/follow/princem59025582?logo=twitter&style=for-the-badge" alt="princem59025582" /></a> </p>
 
-- 🔭 I’m currently Styding At **BBD University**
+- 🔭 I’m currently Styding At **BBD UNIVERSITY at LUCKNOW(UTTAR PRADESH)**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **Full Stack development projects.**
+- 👯 I’m looking to collaborate on **Frontend projects.**
 
 - 💬 Ask me about **Data Structure and Web Devlopment**
 
 - 📫 How to reach me **princemaurya90388@gmail.com**
 
-- 📄 Know about my experiences [I am Currerntly Working to Develop My skills.](I am Currerntly Working to Develop My skills.)
+- 📄 Know about my experiences (I am a Frontend Dev with excellent knowledge in JAVA,DATA STRUCTURE,MYSQL,PYTHON(basics),and at every stage i develop my Skills. )
 
-- ⚡ Fun fact **I am funny with me You never getting Bored.**
+- ⚡I am a Fast learner,and have grasping nature.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
