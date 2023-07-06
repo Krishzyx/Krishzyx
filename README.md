@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently Styding At **BBD UNIVERSITY at LUCKNOW(UTTAR PRADESH)**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Data Structure and Algorithms.**
 
 - 👯 I’m looking to collaborate on **Frontend projects.**
 
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences (I am a Frontend Dev with excellent knowledge in JAVA,DATA STRUCTURE,MYSQL,PYTHON(basics),and at every stage i develop my Skills. )
 
-- ⚡I am a Fast learner,and have grasping nature.
+- ⚡I am a Fast learner,Hard Working and have grasping nature.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
