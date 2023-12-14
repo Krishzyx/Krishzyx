@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/princem59025582" target="blank"><img src="https://img.shields.io/twitter/follow/princem59025582?logo=twitter&style=for-the-badge" alt="princem59025582" /></a> </p>
 
-- 🔭 I’m currently Styding At **BBD UNIVERSITY at LUCKNOW(UTTAR PRADESH)**
+- 🔭 I’m currently Styding At **BBDITM at LUCKNOW(UTTAR PRADESH)**
 
-- 🌱 I’m currently not learning anything suiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+- 🌱 I’m currently learning **android**
 
 - 👯 I’m looking to collaborate on **Frontend projects.**
 
