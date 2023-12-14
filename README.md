@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently Styding At **BBD UNIVERSITY at LUCKNOW(UTTAR PRADESH)**
 
-- 🌱 I’m currently learning **Data Structure and Algorithms.**
+- 🌱 I’m currently not learning anything suiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 
 - 👯 I’m looking to collaborate on **Frontend projects.**
 
