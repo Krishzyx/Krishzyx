@@ -1,4 +1,4 @@
-[![masterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNWdcFB8gX8_fDcAXUCGzMAyAS4Rn5S_roA&usqp=CAU))](https://Krishzyx.io)
+[![masterHead]([(https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)))](https://Krishzyx.io)
 <h1 align="center">Hi Coders 👋, I'm Prince Maurya</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
