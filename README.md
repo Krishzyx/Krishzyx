@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi Coders 👋, I'm Prince Maurya</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
 
 
@@ -8,19 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/princem59025582" target="blank"><img src="https://img.shields.io/twitter/follow/princem59025582?logo=twitter&style=for-the-badge" alt="princem59025582" /></a> </p>
 
-- 🔭 I’m currently Styding At **BBD University at LUCKNOW(UTTAR PRADESH)**
+- 🔭 I’m Graduated from BABU BANARASI DAS UNIVERSITY, LUCKNOW.
 
-- 🌱 I’m currently learning FULL STACK DEVELOPMENT>
+- 🌱 I’m currently learning FULL STACK DEVELOPMENT.
 
-- 👯 I’m looking to collaborate on **Frontend projects.**
+- 👯 I’m looking to collaborate on FRONTEND PROJECTS.
 
-- 💬 Ask me about **Data Structure and Web Devlopment**
+- 💬 Ask me about DATA STRUCTURES AND SOFTWARE DEVELOPMENT.
 
 - 📫 How to reach me **princemaurya90388@gmail.com**
 
-- 📄 Know about my experiences (I am a Frontend Dev with excellent knowledge in JAVA,DATA STRUCTURE,MYSQL,PYTHON(basics),and at every stage i develop my Skills. )
-
-- ⚡I am a Fast learner,Hard Working and have grasping nature.
+- 📄 Know about my experiences (I am a Frontend Dev with excellent knowledge in JAVA,DATA STRUCTURE,MYSQL,PYTHON(basics),and consistentaily developing my Skills. )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
