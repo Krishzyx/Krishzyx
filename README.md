@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/princem59025582" target="blank"><img src="https://img.shields.io/twitter/follow/princem59025582?logo=twitter&style=for-the-badge" alt="princem59025582" /></a> </p>
 
-- 🔭 I’m Graduated from BABU BANARASI DAS UNIVERSITY, LUCKNOW.
+- 🔭 I’m Graduated from BABU BANARASI DAS UNIVERSITY, LUCKNOW. Now , I am pursuing my MCA degree from UTTARANCHAL UNIVERSITY, DEHRADUN.
 
 - 🌱 I’m currently learning FULL STACK DEVELOPMENT.
 
@@ -17,8 +17,6 @@
 - 💬 Ask me about DATA STRUCTURES AND SOFTWARE DEVELOPMENT.
 
 - 📫 How to reach me **princemaurya90388@gmail.com**
-
-- 📄 Know about my experiences (I am a Frontend Dev with excellent knowledge in JAVA,DATA STRUCTURE,MYSQL,PYTHON(basics),and consistentaily developing my Skills. )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
