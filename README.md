@@ -6,15 +6,15 @@
 # 💫 Hi 👋, I'm Prince Maurya
 **A passionate Aspiring Software Developer  from India**
 
-- 🔭 I’m Graduated from BABU BANARASI DAS UNIVERSITY, LUCKNOW. Now , I am pursuing my MCA degree from UTTARANCHAL UNIVERSITY, DEHRADUN.
+## 🚀 About Me
 
-- 🌱 I’m currently learning FULL STACK DEVELOPMENT.
+- 📚 Pursuing MCA from Uttaranchal University, Dehradun
+- 🎓 B.Sc. (Hons.) Computer Science | 9.0 CGPA || Gold Medalist
+- 🏫 Graduate from Babu Banarasi Das University, Lucknow
+- 🏆 NIMCET Qualified (AIR 1892)
+- 💻 Java | DSA | React.js | Web Development
+- 🌱 Always learning and building impactful projects
 
-- 👯 I’m looking to collaborate on FRONTEND PROJECTS.
-
-- 💬 Ask me about DATA STRUCTURES AND SOFTWARE DEVELOPMENT.
-
-- 📫 How to reach me **princemaurya90388@gmail.com**
 
 Email Me 👉 ✉️ **princemaurya90388@gmail.com.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -35,7 +35,6 @@ Email Me 👉 ✉️ **princemaurya90388@gmail.com.com** For Collaboration/Proje
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishzyx&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krishzyx&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Krishzyx&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Krishzyx&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 
 </div>
 
