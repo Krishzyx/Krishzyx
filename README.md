@@ -1,6 +1,6 @@
-<img width="1584" height="396" alt="AWS Community Builder" src="https://github.com/user-attachments/assets/d03f9ae6-0c01-43ab-9eac-a1c9fc323677" />
+<img width="1584" height="396" alt="Canva" src="https://www.canva.com/design/DAGPgodDkrA/_eHaoNvKZL8yLr-vgS-eog/edit"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alamimran613&label=Profile%20views&color=0e75b6&style=flat" alt="alamimran613" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishzyx&label=Profile%20views&color=0e75b6&style=flat" alt="Krishzyx" /> </p>
 
 # 💫 Hi 👋, I'm Prince Maurya
 **A passionate Aspiring Software Developer  from India**
