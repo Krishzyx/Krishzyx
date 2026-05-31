@@ -1,5 +1,6 @@
-<img width="1584" height="396" alt="Canva" src="https://www.canva.com/design/DAGPgodDkrA/_eHaoNvKZL8yLr-vgS-eog/edit"/>
-
+<p align="center">
+  <img src="./assets/banner.png" alt="Prince Maurya Banner" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishzyx&label=Profile%20views&color=0e75b6&style=flat" alt="Krishzyx" /> </p>
 
 # 💫 Hi 👋, I'm Prince Maurya
